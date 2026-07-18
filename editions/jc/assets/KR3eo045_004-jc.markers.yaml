@@ -2150,6 +2150,7 @@ markers:
   - {type: punctuation, offset: 4455, content: ，, id: KR3eo045_jc_004-bkkpn1141}
   - {type: 'tls:seg', offset: 4455, content: '', id: KR3eo045_jc_003-d9.d9.p2s17}
   - {type: punctuation, offset: 4457, content: (, id: KR3eo045_jc_004-bkkpn1142}
+  - {type: voice, offset: 4457, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 4459, content: ), id: KR3eo045_jc_004-bkkpn1143}
   - {type: punctuation, offset: 4461, content: ，, id: KR3eo045_jc_004-bkkpn1144}
   - {type: 'tls:seg', offset: 4461, content: '', id: KR3eo045_jc_003-d9.d9.p2s18}
@@ -6732,6 +6733,7 @@ markers:
   - {type: punctuation, offset: 13400, content: ，, id: KR3eo045_jc_004-bkkpn3651}
   - {type: 'tls:seg', offset: 13400, content: '', id: KR3eo045_jc_003-d9.d43.p2s33}
   - {type: punctuation, offset: 13406, content: (, id: KR3eo045_jc_004-bkkpn3652}
+  - {type: voice, offset: 13406, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 13408, content: ), id: KR3eo045_jc_004-bkkpn3653}
   - {type: punctuation, offset: 13412, content: ，, id: KR3eo045_jc_004-bkkpn3654}
   - {type: 'tls:seg', offset: 13412, content: '', id: KR3eo045_jc_003-d9.d43.p2s34}
@@ -8319,6 +8321,7 @@ markers:
   - {type: punctuation, offset: 16427, content: ，, id: KR3eo045_jc_004-bkkpn4491}
   - {type: 'tls:seg', offset: 16427, content: '', id: KR3eo045_jc_003-d9.d71.p2s49}
   - {type: punctuation, offset: 16433, content: (, id: KR3eo045_jc_004-bkkpn4492}
+  - {type: voice, offset: 16433, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 16435, content: ), id: KR3eo045_jc_004-bkkpn4493}
   - {type: punctuation, offset: 16435, content: 。, id: KR3eo045_jc_004-bkkpn4494}
   - {type: 'tls:seg', offset: 16435, content: '', id: KR3eo045_jc_003-d9.d71.p2s50}
@@ -12522,4 +12525,4 @@ markers:
   - {type: punctuation, offset: 24891, content: 。, id: KR3eo045_jc_004-bkkpn6704}
   - {type: xml-element, offset: 24891, content: '', id: KR3eo045_jc_003-d9.d137p6_end, name: p, role: close, attrs: {'xml:id': KR3eo045_jc_003-d9.d137p6}}
   back: []
-hash: sha256:93e44487ad5ee9b7bfdbda3dda6ba70d4e787fcbfce2205de4bb52b43cdfca84
+hash: sha256:b2c5503344819a7ef9770be578487383db7c21af92619ed63337491a21495c72

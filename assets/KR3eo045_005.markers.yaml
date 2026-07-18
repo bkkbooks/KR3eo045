@@ -2459,6 +2459,7 @@ markers:
   - {type: punctuation, offset: 4663, content: ，, id: KR3eo045_jc_005-bkkpn1281}
   - {type: 'tls:seg', offset: 4663, content: '', id: KR3eo045_jc_004-d10.d13.p6s10}
   - {type: punctuation, offset: 4666, content: (, id: KR3eo045_jc_005-bkkpn1282}
+  - {type: voice, offset: 4666, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 4668, content: ), id: KR3eo045_jc_005-bkkpn1283}
   - {type: punctuation, offset: 4668, content: ，, id: KR3eo045_jc_005-bkkpn1284}
   - {type: 'tls:seg', offset: 4668, content: '', id: KR3eo045_jc_004-d10.d13.p6s11}
@@ -4900,6 +4901,7 @@ markers:
   - {type: punctuation, offset: 9693, content: ，, id: KR3eo045_jc_005-bkkpn2557}
   - {type: 'tls:seg', offset: 9693, content: '', id: KR3eo045_jc_004-d10.d26.p2s111}
   - {type: punctuation, offset: 9700, content: (, id: KR3eo045_jc_005-bkkpn2558}
+  - {type: voice, offset: 9700, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 9702, content: ), id: KR3eo045_jc_005-bkkpn2559}
   - {type: punctuation, offset: 9702, content: ，, id: KR3eo045_jc_005-bkkpn2560}
   - {type: 'tls:seg', offset: 9702, content: '', id: KR3eo045_jc_004-d10.d26.p2s112}
@@ -7227,6 +7229,7 @@ markers:
   - {type: punctuation, offset: 14724, content: ：, id: KR3eo045_jc_005-bkkpn3798}
   - {type: 'tls:seg', offset: 14724, content: '', id: KR3eo045_jc_004-d10.d40.p2s48}
   - {type: punctuation, offset: 14730, content: (, id: KR3eo045_jc_005-bkkpn3799}
+  - {type: voice, offset: 14730, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 14732, content: ), id: KR3eo045_jc_005-bkkpn3800}
   - {type: punctuation, offset: 14735, content: ，, id: KR3eo045_jc_005-bkkpn3801}
   - {type: 'tls:seg', offset: 14735, content: '', id: KR3eo045_jc_004-d10.d40.p2s49}
@@ -12083,4 +12086,4 @@ markers:
   - {type: punctuation, offset: 24612, content: 。, id: KR3eo045_jc_005-bkkpn6356}
   - {type: xml-element, offset: 24612, content: '', id: KR3eo045_jc_004-d10.d79p4_end, name: p, role: close, attrs: {'xml:id': KR3eo045_jc_004-d10.d79p4}}
   back: []
-hash: sha256:91b98953f9895dd1cbf6fc41f499d1cbb8dab628f14a1ad7b1dcff554113ef98
+hash: sha256:403ed3ccaa00035b288ef1ada97ed6a0ece1b4c5c3b36cacc807bb8ee66367f4
